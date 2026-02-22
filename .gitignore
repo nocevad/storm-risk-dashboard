@@ -2,3 +2,7 @@
 data/raw/
 data/processed/
 venv/
+notebooks/.ipynb_checkpoints/
+outputs/test_frame*.png
+outputs/risk_*.png
+outputs/temp_*.png
