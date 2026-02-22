@@ -70,7 +70,6 @@ MySQL database with 5 tables:
 
 | 05\_export\_gif\_dayofyear | Build 365 frame GIF and interactive date lookup |
 
-| 05\_export | For development testing |
 
 
 
